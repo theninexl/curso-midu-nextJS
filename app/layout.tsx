@@ -11,7 +11,7 @@ export default function RootLayout({
       <body
         className={`${montserrat.className} antialiased`}>
           {children}
-        <footer class='py10 flex justify-center items-center'>
+        <footer className='py10 flex justify-center items-center'>
           Hecho con ❤ por Vercel
         </footer>
       </body>
